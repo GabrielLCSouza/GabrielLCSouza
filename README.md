@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I am a huge fan of AI and love exploring new technologies and innovations.**
 
-![Imagem de capa](Presencial/Imagem%20git.READ%20ME.webp)
+![Imagem de capa](https://github.com/GabrielLCSouza/Presencial/raw/GabrielLCSouza-patch-1/Imagem%20git.READ%20ME.webp)
