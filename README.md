@@ -1,7 +1,3 @@
-<img width=100% src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF41&size=35&center=true&vCenter=true&width=1000&lines=I'm+27+years+old;I+from+Brasil,+SP;I+study+software+development)](https://git.io/typing-svg)
-
 ### Main skills:
 ![ HTML ](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)
 ![ CSS ](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)  
