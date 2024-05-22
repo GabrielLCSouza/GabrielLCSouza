@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header&text=Matrix%20Style%20Header&fontColor=00FF41&animation=fadeIn"/>
+<img width=100% src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF41&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriel+L.C.+Souza;I'm+27+years+old;I+from+Brasil,+SP;I+study+software+development)](https://git.io/typing-svg)
 
