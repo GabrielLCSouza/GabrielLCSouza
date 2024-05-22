@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on **projects related to web development and artificial intelligence**.
+- 🌱 I’m currently learning **Development of Multiplatform Software at FATEC**.
+- 👯 I’m looking to collaborate on **open source projects and innovative tech solutions**.
+- 🤔 I’m looking for help with **improving my skills in backend development and machine learning**.
+- 💬 Ask me about **JavaScript, HTML, CSS, Bootstrap, and my projects**.
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/gabriellcsouza)**, **[Email](mailto:gabriel@example.com)**.
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **I am a huge fan of AI and love exploring new technologies and innovations.**
+
+![Imagem de capa](Presencial/Imagem%20git.READ%20ME.webp)
